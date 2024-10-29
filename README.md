@@ -36,7 +36,7 @@ The application allows users to enter questions in plain English about football 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/text-to-sql.git
+    git clone https://github.com/sohamfcb/text-to-sql.git
     cd text-to-sql
     ```
 
